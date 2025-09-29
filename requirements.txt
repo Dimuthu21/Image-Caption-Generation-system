@@ -1,0 +1,7 @@
+tensorflow
+keras
+keras-tuner
+numpy
+pandas
+matplotlib
+pickle-mixin
