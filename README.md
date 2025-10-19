@@ -35,7 +35,7 @@ Captions are tokenized, padded, and mapped to vocabulary indices.
 
 Clone the repo:
 
-git clone https://github.com/your-username/Image-Caption-Generation-System.git
+git clone https://github.com/Dimuthu21/Image-Caption-Generation-System.git
 cd Image-Caption-Generation-System
 
 
