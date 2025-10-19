@@ -30,7 +30,6 @@ Keras Tuner
 Images are passed through a CNN to extract features.
 
 Captions are tokenized, padded, and mapped to vocabulary indices.
-(Add dataset link/instructions if public)
 
 🚀 How to Run
 
